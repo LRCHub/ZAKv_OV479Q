@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "B∀LK",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2026-03-18T10:42:50.903072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "B∀LK",
+      "artist": "SawanoHiroyuki[nZk]:suis",
+      "has_synced": true,
+      "path": "select/01_B∀LK_SawanoHiroyuki[nZk]_suis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "B∀LK",
+      "artist": "SawanoHiroyuki[nZk]:suis (Yorushika)",
+      "has_synced": true,
+      "path": "select/02_B∀LK_SawanoHiroyuki[nZk]_suis_(Yorushika).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "B∀LK",
+      "artist": "SawanoHiroyuki[nZk]:suis (from ヨルシカ)",
+      "has_synced": false,
+      "path": "select/pl_01_B∀LK_SawanoHiroyuki[nZk]_suis_(from_ヨルシカ).txt"
+    }
+  ]
+}
